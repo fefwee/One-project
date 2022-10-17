@@ -1,14 +1,9 @@
-class globalWindow{
-    constructor(closeBtn,minimazeBtn){
-        this.closeBtn=closeBtn;
-        this.minimazeBtn=minimazeBtn;
+class GlobalWindow{
+   
+    open(){
 
     }
-    //методы
-    clickClose(){
+    minimaze(){
 
-    }
-    clickMinimaze(){
-        
     }
 }
